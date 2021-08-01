@@ -21,6 +21,3 @@ function receivedMessage(msg){
         msg.channel.send('Hello '+msg.author.username);
     }
 }
-
-
-//https://discord.com/oauth2/authorize?client_id=871108427340992512&scope=bot
